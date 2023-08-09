@@ -1,0 +1,158 @@
+.trialends {
+  background-color: green;
+  color: white;
+  margin: 0px 40%;
+  width: 30%;
+  padding-left: 6px;
+  display: inline-block;
+}
+body {
+  margin: 0px 0px;
+}
+div > .ulone > li {
+  margin-right: 0px;
+  padding: 10px 18px;
+  display: inline-block;
+}
+.ulone {
+  margin: 0px 0px 0px 0px;
+  margin: 0px 0px;
+  padding: 2px 0px 19px 0px;
+}
+.clients1 {
+  color: rgb(9, 130, 9);
+}
+.po {
+  background-color: green;
+  color: white;
+  font-size: smaller;
+  border-radius: 60px;
+  margin: 0px 0px 0px 3%;
+}
+.input1 {
+  margin: 0px 0px 0px 39%;
+  border-radius: 30px;
+  width: 80px;
+}
+.Betty {
+  background-color: black;
+  color: white;
+  margin: 0px 0px;
+}
+.Betty > img {
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  padding: 1px 1px 0px 50%;
+  border-radius: 20px;
+}
+.div2 {
+  background-color: rgb(28, 98, 172);
+  height: 200px;
+}
+.im2 {
+  border-radius: 80%;
+  width: 10%;
+  height: 120px;
+  margin-top: 35px;
+  margin-left: 20px;
+  padding: 0px 10px;
+}
+.ihelo {
+  margin: 40px 50% 0px 0px;
+  padding: 10px 0px 0px 0px;
+  display: inline-block;
+  color: white;
+}
+.im2,
+.ihelo {
+  float: left;
+}
+.Edi,
+.Sub {
+  margin: 60px 0px 0px 0px;
+  border-radius: 50px;
+  width: 90px;
+  height: 30px;
+}
+.Edi {
+  border: 1px white solid;
+  background-color: rgb(28, 98, 172);
+  color: white;
+}
+.Sub {
+  color: rgb(1, 130, 1);
+  font-weight: bold;
+}
+.thisdataset {
+  color: white;
+}
+.main {
+  margin-left: 40px;
+}
+.clientdata {
+  color: blue;
+  background-color: rgba(230, 119, 232, 0.125);
+  padding: 17px;
+}
+.Q,
+.surv {
+  background-color: rgba(98, 5, 104, 0.107);
+  padding: 5px;
+}
+.Qdata,
+.personal,
+.educationmanagement,
+.insurance {
+  padding: 5px;
+  background-color: rgba(9, 163, 215, 0.124);
+}
+header + div + section > ul {
+  list-style-type: none;
+  padding: 0px 0px;
+}
+.ol1 {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px;
+  list-style-type: none;
+}
+.downsub {
+  color: white;
+  background-color: green;
+  border-radius: 50px;
+  height: 30px;
+  width: 10%;
+  margin-left: 88%;
+  border: 0px;
+}
+li {
+  list-style-type: none;
+}
+.dsec1,
+.dsec2,
+.dsec3,
+.dsec4 {
+  border: 0px black solid;
+  height: 260px;
+  width: 17%;
+  float: left;
+  margin: 30px 0px 0px 4%;
+  color: rgb(5, 55, 149);
+}
+.footer {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(2, 66, 125);
+  clear: both;
+  padding-left: 36%;
+}
+.footer > ol > li {
+  float: left;
+  color: white;
+  padding: 14px 18px 0px 0px;
+}
+.inersec {
+  height: 100px;
+  width: 110%;
+  background-color: rgba(99, 173, 243, 0.474);
+}
